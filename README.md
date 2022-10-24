@@ -1,5 +1,6 @@
 # rgb-classifier
-From blog posting on https://aimlfun.com/visual-classification/
+
+From blog posting: https://aimlfun.com/visual-classification/
 
 This application requires .net6 and Visual Studio 2022 (Community works).
 
